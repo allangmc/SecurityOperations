@@ -162,11 +162,11 @@ Dispositivo conectado a uma rede, como computador, servidor, máquina virtual ou
 
 Ocorrência que ameaça ou viola a confidencialidade, a integridade ou a disponibilidade de dados e sistemas, exigindo investigação ou resposta.
 
-### Incident Response Plan — IRP
+### Incident Response Plan - IRP
 
 Plano que define como a organização deve preparar-se, identificar, conter, erradicar e recuperar-se de incidentes de segurança.
 
-### Indicador de comprometimento — IoC
+### Indicador de comprometimento - IoC
 
 Evidência técnica que pode estar relacionada a uma atividade maliciosa, como endereço IP, domínio, hash, arquivo ou chave de registro.
 
@@ -248,15 +248,15 @@ Alerta cuja investigação confirma a existência de atividade maliciosa ou viol
 
 ## Prompts reutilizáveis para futuras revisões
 
-### Prompt 1 — Revisão geral do conteúdo
+### Prompt 1 - Revisão geral do conteúdo
 
 > Explique os principais conceitos de Security Operations, incluindo logs, SIEM, SOAR, eventos, alertas, incidentes, Threat Intelligence e resposta a incidentes. Utilize linguagem acessível para um estudante iniciante em Segurança da Informação e apresente exemplos práticos.
 
-### Prompt 2 — Evento, alerta e incidente
+### Prompt 2 - Evento, alerta e incidente
 
 > Explique a diferença entre evento, alerta e incidente de segurança. Crie cinco cenários práticos e, em cada cenário, identifique quais elementos são eventos, qual situação gerou o alerta e em que momento o caso pode ser classificado como incidente.
 
-### Prompt 5 — Exercício de classificação
+### Prompt 3 - Exercício de classificação
 
 > Crie dez situações relacionadas a operações de segurança. Minha tarefa será classificá-las como:
 >
